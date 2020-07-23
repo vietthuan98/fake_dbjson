@@ -1,24 +1,49 @@
-{ "todoItem": [{"id":1,"name":"Squirrel, grey-footed","location":"Shoshone","time":"8/25/2019","isDone":false},
-{"id":2,"name":"Platypus","location":"Cardinal","time":"11/11/2019","isDone":false},
-{"id":3,"name":"South American sea lion","location":"Fallview","time":"11/7/2019","isDone":false},
-{"id":4,"name":"Woodcock, american","location":"Utah","time":"9/30/2019","isDone":false},
-{"id":5,"name":"Lizard, giant girdled","location":"Debs","time":"4/22/2020","isDone":true},
-{"id":6,"name":"Pelican, great white","location":"Maple","time":"2/28/2020","isDone":true},
-{"id":7,"name":"Dog, african wild","location":"Lotheville","time":"3/22/2020","isDone":true},
-{"id":8,"name":"Monkey, rhesus","location":"Buena Vista","time":"10/29/2019","isDone":false},
-{"id":9,"name":"Bear, black","location":"Monument","time":"1/4/2020","isDone":false},
-{"id":10,"name":"Wapiti, elk,","location":"Parkside","time":"1/24/2020","isDone":false},
-{"id":11,"name":"Elegant crested tinamou","location":"Sauthoff","time":"9/20/2019","isDone":false},
-{"id":17,"name":"White-eye, pale","location":"Springview","time":"4/4/2020","isDone":true},
-{"id":18,"name":"Waxbill, black-cheeked","location":"Mosinee","time":"7/29/2019","isDone":false},
-{"id":19,"name":"Paddy heron (unidentified)","location":"Loeprich","time":"8/2/2019","isDone":false},
-{"id":20,"name":"Starling, greater blue-eared","location":"Carey","time":"8/2/2019","isDone":false},
-{"id":21,"name":"Pied cormorant","location":"Old Gate","time":"11/22/2019","isDone":true},
-{"id":22,"name":"Eagle, bald","location":"Fuller","time":"4/26/2020","isDone":true},
-{"id":23,"name":"Asian red fox","location":"Sommers","time":"11/29/2019","isDone":false},
-{"id":24,"name":"Sandhill crane","location":"Kennedy","time":"7/3/2020","isDone":true},
-{"id":25,"name":"Peccary, white-lipped","location":"Meadow Vale","time":"1/7/2020","isDone":false},
-{"id":26,"name":"Bandicoot, southern brown","location":"Upham","time":"6/17/2020","isDone":true},
-{"id":27,"name":"Wambenger, red-tailed","location":"Mesta","time":"10/20/2019","isDone":true},
-{"id":28,"name":"Crown of thorns starfish","location":"Knutson","time":"4/12/2020","isDone":false},
-{"id":100,"name":"Common melba finch","location":"Pierstorff","time":"4/14/2020","isDone":false}]}
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    }
+  ]
+}
